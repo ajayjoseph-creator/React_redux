@@ -30,6 +30,6 @@ const style= {
     container: { textAlign: "center", padding: "20px" },
     count: { fontSize: "2rem", marginBottom: "10px" },
     buttons: { display: "flex", justifyContent: "center", gap: "10px" },
-    button: { fontSize: "1.5rem", padding: "10px 20px", cursor: "pointer" },
+    button: { fontSize: "1.5rem", padding: "10px 20px", cursor: "pointer" }, 
   };
 export default CounterComponent
